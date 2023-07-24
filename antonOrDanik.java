@@ -15,7 +15,7 @@ public class antonOrDanik {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         antonOrDanik obj = new antonOrDanik();
-        String line1 = sc.nextLine();
+        sc.nextLine();
         String line2 = sc.nextLine();
         System.out.println(obj.whoWon(line2));
         sc.close();
