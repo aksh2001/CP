@@ -3,8 +3,7 @@ import java.util.Scanner;
 public class Word {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        Word ob = new Word();
-
+        
         String input = sc.nextLine();
         int countU = 0;
         int countL = 0;
