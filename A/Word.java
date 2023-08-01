@@ -1,3 +1,4 @@
+package A;
 import java.util.Scanner;
 
 public class Word {
